@@ -19,7 +19,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/MrinalikaKarna/MrinalikaKarna.github.io](https://github.com/MrinalikaKarna/MrinalikaKarna.github.io
+- Solution URL: [https://github.com/MrinalikaKarna/MrinalikaKarna.github.io](https://github.com/MrinalikaKarna/MrinalikaKarna.github.io)
 - Live Site URL: [https://MrinalikaKarna.github.io](https://MrinalikaKarna.github.io)
 
 ## My process
